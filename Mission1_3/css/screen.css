@@ -1,0 +1,56 @@
+body
+{
+	padding: 20px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+}
+.index-body
+{
+	min-width:440px;
+	overflow: auto;
+	position: relative;
+	padding: 20px;
+	background-color:#eee;
+	border:1px solid #999;
+}
+.left
+{
+	border:1px solid #999;
+	float:left;
+	width:160px;
+	padding:20px;
+	background-color:#fff;
+}
+.right
+{
+	border:1px solid #999;
+	width:120px;
+	background-color:#fff;
+	float:right;
+}
+.middle
+{
+	padding:20px;
+	margin-left:220px;
+	margin-right:140px;
+	border: 1px solid #999;
+	background-color:#fff;
+}
+.group_name
+{
+	float:left;
+    width:80px; 
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+}
+.group_logo
+{
+	float:left;
+}
+.members_logo
+{
+	display:block;
+	margin:20px;
+	border: 1px solid #999;
+}
